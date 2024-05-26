@@ -6,7 +6,7 @@
 ```bash
 mkdir dexter_ws/src
 cd dexter_ws/src
- git clone https://github.com/vallari1/dexter.git
+ git clone https://github.com/vallari1/dexter/dexter.git
 ```
 
 - #### Build the package, source the workspace to terminal
