@@ -4,8 +4,10 @@
 
 - #### Clone this repo into your ROS 2 workspace `src`  directory to get Dexter as a package
 ```bash
-mkdir dexter_ws/src
-cd dexter_ws/src
+mkdir dexter_ws
+cd dexter_ws
+mkdir src
+cd src
  git clone https://github.com/vallari1/dexter.git
 ```
 
