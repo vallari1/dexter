@@ -18,7 +18,7 @@ source install/setup.bash
 
 ## **Running Dexter**
 ```bash
-ros2 launch dexter world:=~/dexter_ws/src/dexter/worlds/empty_world.world
+ros2 launch dexter bot_sim.launch.py world:=~/dexter_ws/src/dexter/worlds/empty_world.world
 ```
 
 - ####  teleop_twist_keyboard node
